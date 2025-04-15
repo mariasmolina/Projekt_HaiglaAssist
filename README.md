@@ -22,7 +22,7 @@ HaiglaAssist on Pythonis loodud töölauarakendus, mis aitab hallata haigla või
 
 ## Dokumentatsioon
 
-- [Projekti dokumentatsioon (PDF)](https://github.com/mariasmolina/Projekt_HaiglaAssist/blob/main/Arvestust%C3%B6%C3%B6%20-%20Projekti%20kirjalik%20osa%20(Maria%20Smolina).pdf)
+- [Projekti dokumentatsioon (PDF)](https://github.com/mariasmolina/Projekt_HaiglaAssist/blob/master/Arvestust%C3%B6%C3%B6%20-%20Projekti%20kirjalik%20osa%20(Maria%20Smolina).pdf)
 
 ## Kujutised
 
