@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f56a6b33-c7ad-4b86-b174-5379414392b5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Projekt_HaiglaAssist.py</StartupFile>
+    <StartupFile>Arvestustöö - HaiglaAssist.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,26 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Projekt_HaiglaAssist.py" />
+    <Compile Include="Arvestustöö - HaiglaAssist.py" />
+    <Compile Include="DB_funktsioonid.py" />
+    <Compile Include="Isikukood_Modul.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AppData\" />
+    <Folder Include="font\" />
+    <Folder Include="pildid\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppData\haigla.db" />
+    <Content Include="Arvestustöö - Projekti kirjalik osa %28Maria Smolina%29.pdf" />
+    <Content Include="font\Comfortaa-Bold.ttf" />
+    <Content Include="font\Comfortaa-Regular.ttf" />
+    <Content Include="font\Nunito-Bold.ttf" />
+    <Content Include="font\Nunito-Regular.ttf" />
+    <Content Include="pildid\hospital.png" />
+    <Content Include="pildid\login_pilt.png" />
+    <Content Include="pildid\smart_id.png" />
+    <Content Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
